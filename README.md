@@ -1,7 +1,7 @@
 ### Hi there I'm [Shiv!](https://github.com/Shivshreyas)👋
-I'm Akhil G Krishnan, a 22-year old technical enthusiast who is learning web development, Predictive analytics and Diagnostic analytics. Passionate to contribute open-source projects and make cool products.<br>
+I'm Shivshreyas, a 22-year old technical enthusiast who is learning web development, and working on Predictive analytics and Diagnostic analytics. Passionate to contribute open-source projects and make cool products.<br>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp; Stacks</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
