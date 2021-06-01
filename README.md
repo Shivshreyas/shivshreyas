@@ -47,9 +47,9 @@
  
   **📫 You can Reach me at:**<br>
 
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shivshreyas)](https://twitter.com/shivshreyas)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shiv-shreyas-a75014169/)](https://www.linkedin.com/in/shiv-shreyas-a75014169/)
-  [![Facebook  Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/shiv.shreyas.58/)
+  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/shivshreyas)](https://twitter.com/shivshreyas)
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shiv-shreyas-a75014169/)](https://www.linkedin.com/in/shiv-shreyas-a75014169/)
+  [![Facebook  Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shiv.shreyas.58/)
   [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Shivuchiha/)
 
  </div>
