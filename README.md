@@ -1,5 +1,5 @@
-### Hi there I'm [Shiv!](https://github.com/Shivshreyas)👋
-I'm Shivshreyas, a 22-year old technical enthusiast who is learning web development, and working on Predictive analytics and Diagnostic analytics. Passionate to contribute open-source projects and make cool products.<br>
+## Hi there I'm [Shiv!](https://github.com/Shivshreyas)👋
+ A 22-year old technical enthusiast who is learning web development, and working on Predictive analytics and Diagnostic analytics. Passionate to contribute open-source projects and make cool products.<br>
 
 <h3> 🛠 &nbsp; Stacks</h3>
 
