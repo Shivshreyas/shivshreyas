@@ -26,10 +26,6 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
  
-  
-  <a href="https://github.com/AVS1508">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivshreyas&theme=buefy&layout=compact" />
-  </a>
 
  <p align="center">
    <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
