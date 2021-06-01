@@ -27,15 +27,13 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
  
   
-  <p align="center">
   <a href="https://github.com/AVS1508">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivshreyas&theme=buefy&layout=compact" />
   </a>
-  </p>
 
-<p align="center">
+ <p align="center">
    <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
- </p>
+  </p>
  
  <details align="center">
 
@@ -45,6 +43,13 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
+ <div align="center">
  
+  **📫 You can Reach me at:**<br>
 
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shivshreyas)](https://twitter.com/shivshreyas)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shiv-shreyas-a75014169/)](https://www.linkedin.com/in/shiv-shreyas-a75014169/)
+  [![Facebook  Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/shiv.shreyas.58/)
+  [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Shivuchiha/)
 
+ </div>
