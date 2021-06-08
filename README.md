@@ -49,3 +49,6 @@
   [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Shivuchiha/)
 
  </div>
+  <p  align="center">
+    <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+  </p>
